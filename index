@@ -1,0 +1,65 @@
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Guiminamflix</title>
+</head>
+
+<body>
+    <header>GUIMINAMFLIX</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>PICA PAU </h1>
+            <p></p>
+        </div>
+
+        <div>
+    
+
+
+
+
+
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Filmes e séries</h2>
+        <div class="categoria-videos">
+            
+           
+               
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IKWArUvMcpg?si=_4xDyrW2jIZR1rHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                " />
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/e4KHgr2izxg?si=sSXg3k2IiNumuawK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            ">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/kI6Sonj01QE?si=MMWCHirvFHtk1NWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                " />
+            </a>
+            <iframe width=""560" height="315" src="https://www.youtube.com/embed/_MpgnfptQBU?si=0Atjt0GUB6jZO1v9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            ">
+                <iframe width=""560" height="315" src="https://www.youtube.com/embed/E2lkilKYPiQ?si=jvh3cpNhHckW9-En" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/uOLUfGaZi1k?si=x_8ZKoKKkm5D34gP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            ">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LVE17tSApHI?si=BLdKLEs-Wv5YQNzx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                " />
+            </a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/A1Hjezg7bIw?si=pTqGntJL1Gvr834T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            ">
+                
+            <iframe width=" 560" height="315" src="https://www.youtube.com/embed/TFStyiEmo10?si=9ACsuSSMU7O51_WV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
